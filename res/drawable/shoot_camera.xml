@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 
+按下的状态
+     -->
+    <item android:drawable="@drawable/shoot_ons" android:state_pressed="true"/>
+    <!-- 
+     普通的状态
+     -->
+    <item android:drawable="@drawable/shoot_normal"/>
+
+</selector>
